@@ -1,0 +1,9 @@
+{
+  "name": "Certyfikaty — Adwokat / Sędzia / Prokurator",
+  "short_name": "Certyfikaty",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2b2f77",
+  "theme_color": "#2b2f77",
+  "icons": []
+}
